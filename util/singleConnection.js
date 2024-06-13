@@ -36,15 +36,3 @@ module.exports = class ConncetDB {
 }
 
 
-// async function main() {
-//     try {
-//         const pattern = await new ConncetDB().initial();
-//         const taskcollection = await pattern.collection("task");
-//         return taskcollection;
-//     } catch (error) {
-//         console.log(error.message)
-//     }
-// }
-
-
-// main()
